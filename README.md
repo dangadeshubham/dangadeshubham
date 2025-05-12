@@ -1,7 +1,7 @@
-# Cheating Surveillance System
+# Smart Exam Monitoring System Using Computer Vision
 
 ## Overview
-The Cheating Surveillance System is designed to monitor and detect potential cheating behaviors during examinations. It utilizes computer vision techniques to track eye movements, head poses, and mobile phone usage.
+Designed to monitor and detect potential cheating behaviors during examinations. It utilizes computer vision techniques to track eye movements, head poses, and mobile phone usage.
 
 ## File Descriptions
 - **main.py**: The main script that initializes the video capture and runs the detection loop. It integrates the functionalities of eye movement detection, head pose estimation, and mobile phone detection.
